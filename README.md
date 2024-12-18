@@ -30,7 +30,7 @@ Sources:
 
 - https://beej.us/guide/bgnet/html/split/system-calls-or-bust.html#    
 - https://pubs.opengroup.org/onlinepubs/7908799/xsh/sysstat.h.html
-- CIS*3210 Lecture 5: introduction to network programming slides and examples
+- CIS Lecture 5: introduction to network programming slides and examples
 
 ## Personal documentation
 
